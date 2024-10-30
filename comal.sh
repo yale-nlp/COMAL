@@ -1,6 +1,6 @@
 NAME="COMAL"  # name of the experiment
-OLD_CKPT="yale-nlp/comal-mle" # at the first iteration, this should be the path to the MLE model
-REF_CKPT="yale-nlp/comal-mle" # at the first iteration, this should be the path to the MLE model
+OLD_CKPT="yale-nlp/comal-qwen2-1.5b-mle" # at the first iteration, this should be the path to the MLE model
+REF_CKPT="yale-nlp/comal-qwen2-1.5b-mle" # at the first iteration, this should be the path to the MLE model
 
 GPU_IDS=0,1,2,3,4,5,6,7   # GPU IDs, here we assume 8 GPUs, please change this if you have different number of GPUs
 GPU_LIST="0 1 2 3 4 5 6 7"  # GPU list
