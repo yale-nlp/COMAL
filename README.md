@@ -42,9 +42,9 @@ The best checkpoints produced by different algorithms are provided below, with t
 
 | Method | Checkpoint | Round |
 |--------|------------|-------|
-| COMAL | [yale-nlp/comal-qwen2-1.5b](yale-nlp/comal-qwen2-1.5b) | 7 |
-| INPO-Small | [yale-nlp/comal-qwen2-1.5b-inpo-small](yale-nlp/comal-qwen2-1.5b-inpo-small) | 5 |
-| INPO-Large | [yale-nlp/comal-qwen2-1.5b-inpo-large](yale-nlp/comal-qwen2-1.5b-inpo-large) | 4 |
+| COMAL | [yale-nlp/comal-qwen2-1.5b](https://huggingface.co/yale-nlp/comal-qwen2-1.5b) | 7 |
+| INPO-Small | [yale-nlp/comal-qwen2-1.5b-inpo-small](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small) | 5 |
+| INPO-Large | [yale-nlp/comal-qwen2-1.5b-inpo-large](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large) | 4 |
 
 
 ### All Checkpoints
@@ -54,13 +54,13 @@ Please refer to the paper for more details.
 
 | Round (Iteration) | Iter-IPO | INPO-Small | INPO-Large | COMAL |
 |-------|----------|------------|------------|-------|
-| 1 (6)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round1](yale-nlp/comal-qwen2-1.5b-iter-ipo-round1) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round1](yale-nlp/comal-qwen2-1.5b-inpo-small-round1) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round1](yale-nlp/comal-qwen2-1.5b-inpo-large-round1) | Same as [INPO-Small-Round1](yale-nlp/comal-qwen2-1.5b-inpo-small-round1) |
-| 2 (12)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round2](yale-nlp/comal-qwen2-1.5b-iter-ipo-round2) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round2](yale-nlp/comal-qwen2-1.5b-inpo-small-round2) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round2](yale-nlp/comal-qwen2-1.5b-inpo-large-round2) | Same as [INPO-Small-Round2](yale-nlp/comal-qwen2-1.5b-inpo-small-round2) |
-| 3 (18)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round3](yale-nlp/comal-qwen2-1.5b-iter-ipo-round3) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round3](yale-nlp/comal-qwen2-1.5b-inpo-small-round3) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round3](yale-nlp/comal-qwen2-1.5b-inpo-large-round3) | [yale-nlp/comal-qwen2-1.5b-round3](yale-nlp/comal-qwen2-1.5b-round3) |
-| 4 (24)   | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round4](yale-nlp/comal-qwen2-1.5b-iter-ipo-round4) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round4](yale-nlp/comal-qwen2-1.5b-inpo-small-round4) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round4](yale-nlp/comal-qwen2-1.5b-inpo-large-round4) | [yale-nlp/comal-qwen2-1.5b-round4](yale-nlp/comal-qwen2-1.5b-round4) |
-| 5 (30)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round5](yale-nlp/comal-qwen2-1.5b-iter-ipo-round5) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round5](yale-nlp/comal-qwen2-1.5b-inpo-small-round5) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round5](yale-nlp/comal-qwen2-1.5b-inpo-large-round5) | [yale-nlp/comal-qwen2-1.5b-round5](yale-nlp/comal-qwen2-1.5b-round5) |
-| 6 (36)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round6](yale-nlp/comal-qwen2-1.5b-iter-ipo-round6) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round6](yale-nlp/comal-qwen2-1.5b-inpo-small-round6) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round6](yale-nlp/comal-qwen2-1.5b-inpo-large-round6) | [yale-nlp/comal-qwen2-1.5b-round6](yale-nlp/comal-qwen2-1.5b-round6) |
-| 7 (42)    | WIP | [yale-nlp/comal-qwen2-1.5b-inpo-small-round7](yale-nlp/comal-qwen2-1.5b-inpo-small-round7) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round7](yale-nlp/comal-qwen2-1.5b-inpo-large-round7) | [yale-nlp/comal-qwen2-1.5b-round7](yale-nlp/comal-qwen2-1.5b-round7) |
+| 1 (6)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round1](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-iter-ipo-round1) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round1](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round1) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round1](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round1) | Same as [INPO-Small-Round1](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round1) |
+| 2 (12)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round2](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-iter-ipo-round2) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round2](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round2) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round2](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round2) | Same as [INPO-Small-Round2](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round2) |
+| 3 (18)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round3](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-iter-ipo-round3) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round3](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round3) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round3](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round3) | [yale-nlp/comal-qwen2-1.5b-round3](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-round3) |
+| 4 (24)   | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round4](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-iter-ipo-round4) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round4](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round4) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round4](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round4) | [yale-nlp/comal-qwen2-1.5b-round4](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-round4) |
+| 5 (30)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round5](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-iter-ipo-round5) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round5](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round5) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round5](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round5) | [yale-nlp/comal-qwen2-1.5b-round5](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-round5) |
+| 6 (36)    | [yale-nlp/comal-qwen2-1.5b-iter-ipo-round6](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-iter-ipo-round6) | [yale-nlp/comal-qwen2-1.5b-inpo-small-round6](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round6) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round6](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round6) | [yale-nlp/comal-qwen2-1.5b-round6](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-round6) |
+| 7 (42)    | WIP | [yale-nlp/comal-qwen2-1.5b-inpo-small-round7](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-small-round7) | [yale-nlp/comal-qwen2-1.5b-inpo-large-round7](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-inpo-large-round7) | [yale-nlp/comal-qwen2-1.5b-round7](https://huggingface.co/yale-nlp/comal-qwen2-1.5b-round7) |
 
 ## File Structure
 
