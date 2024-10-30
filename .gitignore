@@ -1,0 +1,7 @@
+envs/
+__pycache__
+exps/*
+!exps/
+!exps/**/alpacaeval_output.jsonl
+!exps/**/alpacaeval_vs_previous.json
+!exps/README.txt
