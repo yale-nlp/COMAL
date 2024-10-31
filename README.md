@@ -1,6 +1,6 @@
 # COMAL
 
-This repository is for our paper "COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences".
+This repository is for our paper ["COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences"](http://arxiv.org/abs/2410.23223).
 
 ## Outline
 
